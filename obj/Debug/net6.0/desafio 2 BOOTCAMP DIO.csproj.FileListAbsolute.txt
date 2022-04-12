@@ -1,0 +1,15 @@
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\bin\Debug\net6.0\desafio 2 BOOTCAMP DIO.exe
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\bin\Debug\net6.0\desafio 2 BOOTCAMP DIO.deps.json
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\bin\Debug\net6.0\desafio 2 BOOTCAMP DIO.runtimeconfig.json
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\bin\Debug\net6.0\desafio 2 BOOTCAMP DIO.dll
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\bin\Debug\net6.0\desafio 2 BOOTCAMP DIO.pdb
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.csproj.AssemblyReference.cache
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.AssemblyInfoInputs.cache
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.AssemblyInfo.cs
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.csproj.CoreCompileInputs.cache
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.dll
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\refint\desafio 2 BOOTCAMP DIO.dll
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.pdb
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\desafio 2 BOOTCAMP DIO.genruntimeconfig.cache
+C:\Users\santo\desafio 2 BOOTCAMP DIO123\obj\Debug\net6.0\ref\desafio 2 BOOTCAMP DIO.dll
